@@ -1,0 +1,6 @@
+ALGORITHM: ASSIGNMENT OPERATOR
+
+1)According to requirements they are given the x,y value.
+2)We have to take the temp variable to store the value.
+3)1st value assign in temp and  2nd value stored in 1st variable.
+4)Temp variable assign  to 2nd variable ad print it.

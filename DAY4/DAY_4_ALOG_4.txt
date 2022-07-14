@@ -1,0 +1,6 @@
+ALGORITHM: BITWISE OPERATOR
+1)User has to taken the input
+2)We have to set a particular bit using bitwise or 1<<pos and print it
+3)We have to clear a particular bit using bitwise AND compliment 1<<pos and print it
+4)We hhave to compliment bitb using bitwise xor 1<<pos and print it.
+5)if the num&(num-1)means print not a power of 2,else print power of 2.

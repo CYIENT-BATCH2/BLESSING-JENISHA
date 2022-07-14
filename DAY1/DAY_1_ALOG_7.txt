@@ -1,0 +1,8 @@
+Algorithm:PALINDROME OR NOT
+
+1)We are taking the variable as temp,number,rem and rev.
+2)First we have to store the number into temp variable.
+3) if the remainder is greater than zero only it will enter into the condition.
+4)Like ,rev=rev*10+ewm and number is stored in rev.
+5)Check it temp is equality of rev only it will print as palindrome.
+6) Otherwise it will print as not palindrome.

@@ -1,0 +1,5 @@
+Algorithm: ASCII VALUE
+
+1)Enter the character as user input.
+2)Find the ascii value for the particular character.
+3)Using format specifier as %D in character it will print ascii value.

@@ -1,0 +1,8 @@
+Algorithm:WEIGHTEST AMONG THREE PEOPLE
+
+1)Taken the three inputs like x,y,z
+2)Each carriers value as low or high.
+3)Compared to 'y' and 'z','x' value is greater means 'x'is high.
+4)Like that for same as 'y' and 'z' also.
+5)if 'x' is lesss than'y' and'y' is equlity of'z' then it will print'y' and 'z' is bigger.
+6)Same thing is happened in each condition and print the largest weight among three.

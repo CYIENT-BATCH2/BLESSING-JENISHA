@@ -1,0 +1,6 @@
+Algorithm:NO OF LOTTERY TICKETS
+
+1)Enter the lottery tickets as user.
+2)Using gotolabel that number is nor equal to zero.
+3)if the remainder is equality of 3 the count should be increased. 
+4)The count is greater than zero and print the count.

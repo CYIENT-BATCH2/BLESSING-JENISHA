@@ -1,0 +1,5 @@
+Algorithm: Area of circular garden
+ 1) we are taken the input datatypes as float.
+2) ender the radius as user input.
+3) we know that formula to find area, so using 3.14*r*r we can find.
+4) print the area in float format

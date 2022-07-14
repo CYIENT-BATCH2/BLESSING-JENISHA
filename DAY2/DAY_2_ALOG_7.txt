@@ -1,0 +1,5 @@
+Algorithm:LEAP YEAR
+
+1)Requirements has given to find the leap yera between 1990 n 2022.
+2)using the if condition that means i the year is divisible by 4 or 400  and the year is to check that century or not.
+3)if the above condition is statisfied print the leap year.

@@ -1,0 +1,14 @@
+ALGORITHM: CONDITIONL OPERATOR
+
+1)According to requirements WE HAVE TO FIND THE BIGGEST number using conditional operator.
+2)if x value is greater than y, print y value is bigger else x value is bigger.
+
+ALGORITHM: CONDITIONL OPERATOR
+
+1)According to requirements WE HAVE TO FIND THE even or odd number using conditional operator.
+2)if num &1 is equality of zero means print it is an even number else print the odd number.
+
+ALGORITHM: CONDITIONL OPERATOR
+
+1)According to requirements WE HAVE TO FIND THE even or odd number using conditional operator.
+2)if numv is greater than zero print it is postive number else print negative number.

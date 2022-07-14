@@ -1,0 +1,6 @@
+Algorithm: Balls are even or odd
+
+1) According to requirements the data will be taken as user.
+2) check that the condition if the number is bitwise and(&) with 1 is equlity of0.
+3) Whether the above condition is satisfied meand it will print as" even number".
+4) Otherwise it will print as "odd".

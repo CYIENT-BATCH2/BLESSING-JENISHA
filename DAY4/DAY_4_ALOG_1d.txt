@@ -1,0 +1,5 @@
+ALGORITHM: BITWISE OPERATOR
+
+1)According to requirements they are given the x,y value.
+2)We have to find k value for the given expression using bitwise operator.
+3)Print the k value.

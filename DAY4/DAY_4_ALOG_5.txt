@@ -1,0 +1,3 @@
+ALGORITHM:SIZE OF OPERATOR
+1)WE HAVE TO FIND THE Size of  all datatypes and variables using sizeof operator.
+

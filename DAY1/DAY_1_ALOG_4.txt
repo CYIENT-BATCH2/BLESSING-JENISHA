@@ -1,0 +1,7 @@
+Algorithm: REVERSE THE NUMBER
+taken the user input as number.
+using goto label we are giving the condition.
+if the remainder  greater than zero only it will go into the loop.
+ using that equation like,rev=rev*10+rem we are finding and storing it.
+ check the number!=0 otherwise it will exit from the condition.
+ print the reverse number.

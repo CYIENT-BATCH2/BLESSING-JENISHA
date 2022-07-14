@@ -1,0 +1,7 @@
+ALGORITHM: TO FIND AGE
+
+1)According to requirements year and month is given by user.
+2) We should scan the birth month and birth year as well as current year and current month.
+3) if the month is greater than the current month we should use age=(current_year-birth year)-1, 
+and month=(12-birth_month)+current month.and print.
+4)if the above condition is false we should do age=current_year-birth year and month+current month-birth month and print it.

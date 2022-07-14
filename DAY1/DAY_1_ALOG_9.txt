@@ -1,0 +1,6 @@
+Algorithm:LOGIC GATES
+
+1)Taken the user has two inputs.
+2)if the both input is high is logical AND operrator the output will be high.
+3)if the ONE OF input is high is logical OR operrator the output will be high.
+4)if the input As high  the output will be LOW in NOT gate.

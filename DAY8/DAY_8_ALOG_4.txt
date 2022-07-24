@@ -1,0 +1,5 @@
+ALGORITHM
+ 1)Using function we write the code
+ 2)Function having 2 argument and 1 return type
+ 3)Function has to flip the bit postion.
+ 4)In argument 1 byte value and return complete byte value

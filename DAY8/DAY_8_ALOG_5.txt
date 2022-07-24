@@ -1,0 +1,4 @@
+ALGORITHM
+1)Take the input from user
+2)Find out size of array elements
+3)Using pointer sorting the array elements.
